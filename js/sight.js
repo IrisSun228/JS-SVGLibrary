@@ -19,3 +19,5 @@ class SVGElement {
         return this;
     }
 }
+
+class Sight {}
