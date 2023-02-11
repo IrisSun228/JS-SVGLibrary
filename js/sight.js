@@ -1,1 +1,3 @@
-class SVGElement {}
+class SVGElement {
+    constructor(type) {}
+}
