@@ -20,4 +20,6 @@ class SVGElement {
     }
 }
 
-class Sight {}
+class Sight {
+    constructor(selector, width, height) {}
+}
